@@ -1,0 +1,9 @@
+{
+  "env": {
+    "MONGO_USER": "huyen296",
+    "MONGO_PASSWORD": "x6FY0rohYUoWbVVh",
+    "MONGO_DEFAULT_DATABASE": "shop",
+    "STRIPE_KEY": "sk_test_51QXhvUF5tkRGRssjAO4Vzyl1DpKUiDrVwWhGzEzcuK8IH6lGkOShdJUGVR5NvV4bjQEggOqC3T2lcjE8y9FR17j600zwFCMudC",
+    "TRANSPORT_KEY": "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"
+  }
+}
